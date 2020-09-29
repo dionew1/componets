@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { image, name, date } from "faker";
+import { image, name } from "faker";
 import CommentDetail from "./CommentDetail";
 
 const App = () => {
